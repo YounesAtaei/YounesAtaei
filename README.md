@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,git,html,css,tailwindcss,wordpress,ai" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,html,css,tailwindcss,wordpress" />
 </p>
 
 
