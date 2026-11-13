@@ -26,13 +26,10 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
+ <img
     src="https://github-stats-extended.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight&hide_border=true"
     width="49%"
   />
-</p>
-
 
 
 ## 🌐 Connect With Me
