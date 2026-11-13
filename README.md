@@ -24,21 +24,20 @@
 
 
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Younes GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=YounesAtaei&layout=compact&theme=tokyonight&hide_border=true"
+    width="49%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=YounesAtaei&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 
 ## 🌐 Connect With Me
