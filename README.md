@@ -26,7 +26,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight)
 
-## 📫 Connect With Me
+## 🚀 Currently Working On
+
+- Building a modular E-commerce application with Laravel.
+- Improving my backend development skills.
+- Learning software architecture and design patterns.
 
 ## 🌐 Connect With Me
 
