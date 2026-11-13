@@ -23,22 +23,22 @@
 </p>
 
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Younes's GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Younes GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesAtaei&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=YounesAtaei&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
-
 
 
 ## 🌐 Connect With Me
