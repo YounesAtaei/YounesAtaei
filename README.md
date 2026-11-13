@@ -26,11 +26,23 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight)
 
-## 🚀 Currently Working On
 
-- Building a modular E-commerce application with Laravel.
-- Improving my backend development skills.
-- Learning software architecture and design patterns.
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Younes's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YounesAtaei&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 
 ## 🌐 Connect With Me
 
