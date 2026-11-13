@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,vue,git,html,css" />
 </p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounesAtaei&show_icons=true&theme=tokyonight)
-
 
 ## 📊 GitHub Statistics
 
@@ -42,6 +38,7 @@
     alt="Top Languages"
   />
 </p>
+
 
 
 ## 🌐 Connect With Me
